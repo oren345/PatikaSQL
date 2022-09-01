@@ -1,0 +1,2 @@
+# PatikaSQL
+Odev1
